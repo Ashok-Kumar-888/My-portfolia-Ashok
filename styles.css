@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    font-family: monospace;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+header{
+    height: 100vh;
+    color: white;
+    background-color: aqua;
+}
+h1{
+    color: blue;
+    font-size: 2rem;
+}
+header h1{
+    color: white;
+    margin: 0;
+}
+button{
+    height: 40px;
+    width: 140px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+button:hover{
+    color: white;
+    background-color: darkblue;
+}
+main{
+    padding: 10px;
+}
+.submit{
+    height: 20px;
+    width: 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    background-color: blue;
+
+}
+.submit:hover{
+    color: black;
+    background-color: #2323ac;
+}
+input{
+    border-radius:20px ;
+    border: 1px solid black;
+    height: 10px;
+}
+

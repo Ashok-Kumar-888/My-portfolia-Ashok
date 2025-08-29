@@ -1,0 +1,40 @@
+  body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: pink;
+    }
+    .container {
+      margin-top: 15%;
+    }
+    .logo {
+      width: 272px;
+      height: 92px;
+    }
+    .search-box {
+      margin-top: 20px;
+    }
+    input[type="text"] {
+      width: 60%;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 24px;
+    }
+    .buttons {
+      margin-top: 20px;
+    }
+    .buttons input {
+      padding: 10px 20px;
+      font-size: 14px;
+      margin: 5px;
+      border: none;
+      border-radius: 4px;
+      background-color: #f2f2f2;
+      cursor: pointer;
+    }
+    .buttons input:hover {
+      background-color: #ddd;
+    }
+  
